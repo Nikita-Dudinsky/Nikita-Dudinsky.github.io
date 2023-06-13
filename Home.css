@@ -6,7 +6,7 @@ body{
 	min-width: 320px;
 }
 
-.header{
+header{
 	position: fixed;
 	display: block;
 	height: 48px;
