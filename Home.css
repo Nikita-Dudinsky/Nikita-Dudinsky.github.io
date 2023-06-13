@@ -14,7 +14,6 @@ body{
 	z-index: 15;
 	top: 0;
 	left: 0;
-	float: top;
 	background-color: rgba(0, 0, 0, .8);
 	backdrop-filter: saturate(180%) blur(20px);
 	min-width: 320px;
