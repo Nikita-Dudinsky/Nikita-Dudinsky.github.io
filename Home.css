@@ -8,7 +8,6 @@ body{
 
 .header{
 	top: 0;
-	display: block;
 	position: fixed;
 	height: 48px;
 	width:  100%;
